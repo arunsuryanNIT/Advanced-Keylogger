@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1562271672 source:c:\users\arun suryan\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"KeyConstants.h"
+	"HelperHeaders.h"
+	"Base64.h"
+	"InputOutput.h"
+	"Time_Reference.h"
+	"Mail_Send.h"
+	"Heart_Keylogger.h"
+
+1562255030 c:\users\arun suryan\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1562253782 c:\users\arun suryan\documents\keylogger\helperheaders.h
+	<string>
+	<ctime>
+	<sstream>
+	<fstream>
+
+1562255030 c:\users\arun suryan\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1562257014 c:\users\arun suryan\documents\keylogger\inputoutput.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"HelperHeaders.h"
+	"Base64.h"
+
+1562265206 c:\users\arun suryan\documents\keylogger\time_reference.h
+	<thread>
+	<chrono>
+
+1562272633 c:\users\arun suryan\documents\keylogger\mail_send.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"InputOutput.h"
+	"Time_Reference.h"
+	"HelperHeaders.h"
+
+1562271083 c:\users\arun suryan\documents\keylogger\heart_keylogger.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Time_Reference.h"
+	"Mail_Send.h"
+

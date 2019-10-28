@@ -1,0 +1,9 @@
+[05.7.2019 02:27:59]
+Hook Started... timer started
+
+[05.7.2019 02:28:36]
+Mail was not sent. error code: 259
+
+[05.7.2019 02:28:36]
+<From SendMail> Return Code: 32766
+

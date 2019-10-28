@@ -1,0 +1,21 @@
+[05.7.2019 01:55:56]
+Hook Started... timer started
+
+[05.7.2019 01:56:33]
+Mail was not sent. error code: 259
+
+[05.7.2019 01:56:33]
+<From SendMail> Return Code: 32761
+
+[05.7.2019 01:57::7]
+Mail was not sent. error code: 3
+
+[05.07.2019 02:07:19]
+Hook Started... timer started
+
+[05.07.2019 02:07:53]
+Mail was not sent. error code: 3
+
+[05.07.2019 02:07:53]
+<From SendMail> Return Code: 32761
+
